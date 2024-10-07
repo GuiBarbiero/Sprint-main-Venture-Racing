@@ -7,11 +7,11 @@ const ArrowChatButton = () => {
 
   // Perguntas predefinidas
   const predefinedQuestions = [
-    "pilotos",
-    "equipes",
-    "termos",
-    "regulamento",
-    "curiosidades",
+    "Pilotos",
+    "Equipes",
+    "Termos",
+    "Regulamento",
+    "Curiosidades",
     "Historia"
   ];
 
